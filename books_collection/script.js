@@ -162,7 +162,7 @@ const books = [
 	{
 		title: 'Introduction to Algorithms',
 		author: ['Thomas H. Cormen', 'Charles E. Leiserson', 'Ronald L. Rivest', 'Clifford Stein'],
-		imageSrc: './algorithms.jpg',
+		imageSrc: './stacey_book.jpg',
 		publisher: 'MIT Press',
 		publicationDate: '2009-07-31',
 		edition: 3,
@@ -187,7 +187,7 @@ const books = [
 	{
 		title: 'Clean Code: A Handbook of Agile Software Craftsmanship',
 		author: ['Robert C. Martin'],
-		imageSrc: './algorithms.jpg',
+		imageSrc: './kids_encyclopedia.jpg',
 		publisher: 'Prentice Hall',
 		publicationDate: '2008-08-11',
 		edition: 1,
