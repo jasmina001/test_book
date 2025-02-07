@@ -137,7 +137,7 @@ const books = [
 	{
 		title: 'Introduction to Algorithms',
 		author: ['Thomas H. Cormen', 'Charles E. Leiserson', 'Ronald L. Rivest', 'Clifford Stein'],
-		imageSrc: './algorithms.jpg',
+		imageSrc: './world.jpg',
 		publisher: 'MIT Press',
 		publicationDate: '2009-07-31',
 		edition: 3,
