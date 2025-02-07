@@ -13,7 +13,7 @@ const books = [
 	{
 		title: 'Algorithms',
 		author: ['Robert Sedgewick', 'Kevin Wayne'],
-		imageSrc: './algorithms.jpg',
+		imageSrc: './baby.jpg',
 		publisher: 'Addison-Wesley Professional',
 		publicationDate: '2011-03-24',
 		edition: 4,
@@ -63,7 +63,7 @@ const books = [
 	{
 		title: 'Computer Systems: A Programmer\'s Perspective',
 		author: ['Randal E. Bryant', 'David Richard O\'Hallaron'],
-		imageSrc: './books_club.jpg',
+		imageSrc: './bugs.jpg',
 		publisher: 'Prentice Hall',
 		publicationDate: '2002-01-01',
 		edition: 1,
@@ -88,7 +88,7 @@ const books = [
 	{
 		title: 'Operating System Concepts',
 		author: ['Abraham Silberschatz', 'Peter B. Galvin', 'Greg Gagne'],
-		imageSrc: './odamcha.jpg',
+		imageSrc: './concise.jpg',
 		publisher: 'John Wiley & Sons',
 		publicationDate: '2004-12-14',
 		edition: 10,
@@ -112,7 +112,7 @@ const books = [
 	{
 		title: 'Engineering Mathematics',
 		author: ['K.A. Stroud', 'Dexter J. Booth'],
-		imageSrc: './just_books.png',
+		imageSrc: './factopia.jpg',
 		publisher: 'Palgrave',
 		publicationDate: '2007-01-01',
 		edition: 14,
@@ -137,7 +137,7 @@ const books = [
 	{
 		title: 'Introduction to Algorithms',
 		author: ['Thomas H. Cormen', 'Charles E. Leiserson', 'Ronald L. Rivest', 'Clifford Stein'],
-		imageSrc: './world.jpg',
+		imageSrc: './giraffes.jpg',
 		publisher: 'MIT Press',
 		publicationDate: '2009-07-31',
 		edition: 3,
@@ -162,7 +162,7 @@ const books = [
 	{
 		title: 'Introduction to Algorithms',
 		author: ['Thomas H. Cormen', 'Charles E. Leiserson', 'Ronald L. Rivest', 'Clifford Stein'],
-		imageSrc: './stacey_book.jpg',
+		imageSrc: './pluto.jpg',
 		publisher: 'MIT Press',
 		publicationDate: '2009-07-31',
 		edition: 3,
@@ -212,7 +212,7 @@ const books = [
 	{
 		title: 'Design Patterns: Elements of Reusable Object-Oriented Software',
 		author: ['Erich Gamma', 'Richard Helm', 'Ralph Johnson', 'John Vlissides'],
-		imageSrc: './algorithms.jpg',
+		imageSrc: './infographica.jpg',
 		publisher: 'Addison-Wesley',
 		publicationDate: '1994-10-21',
 		edition: 1,
@@ -237,7 +237,7 @@ const books = [
 	{
 		title: 'The Pragmatic Programmer: Your Journey to Mastery',
 		author: ['Andrew Hunt', 'David Thomas'],
-		imageSrc: './algorithms.jpg',
+		imageSrc: './universe.jpg',
 		publisher: 'Addison-Wesley',
 		publicationDate: '1999-10-30',
 		edition: 1,
@@ -262,7 +262,7 @@ const books = [
 	{
 		title: 'Refactoring: Improving the Design of Existing Code',
 		author: ['Martin Fowler'],
-		imageSrc: './algorithms.jpg',
+		imageSrc: './the gene.jpg',
 		publisher: 'Addison-Wesley',
 		publicationDate: '1999-07-08',
 		edition: 1,
@@ -287,7 +287,7 @@ const books = [
 	{
 		title: 'The Mythical Man-Month: Essays on Software Engineering',
 		author: ['Frederick P. Brooks Jr.'],
-		imageSrc: './algorithms.jpg',
+		imageSrc: './as byati.jpg',
 		publisher: 'Addison-Wesley',
 		publicationDate: '1975-01-01',
 		edition: 1,
@@ -312,7 +312,7 @@ const books = [
 	{
 		title: 'The Art of Computer Programming',
 		author: ['Donald E. Knuth'],
-		imageSrc: './algorithms.jpg',
+		imageSrc: './children love.jpg',
 		publisher: 'Addison-Wesley',
 		publicationDate: '1968-01-01',
 		edition: 1,
@@ -337,7 +337,7 @@ const books = [
 	{
 		title: 'Artificial Intelligence: A Modern Approach',
 		author: ['Stuart Russell', 'Peter Norvig'],
-		imageSrc: './algorithms.jpg',
+		imageSrc: './the jungle book.jpg',
 		publisher: 'Prentice Hall',
 		publicationDate: '2009-12-28',
 		edition: 3,
@@ -362,7 +362,7 @@ const books = [
 	{
 		title: 'The Clean Coder: A Code of Conduct for Professional Programmers',
 		author: ['Robert C. Martin'],
-		imageSrc: './algorithms.jpg',
+		imageSrc: './stacey_book.jpg',
 		publisher: 'Prentice Hall',
 		publicationDate: '2011-05-16',
 		edition: 1,
