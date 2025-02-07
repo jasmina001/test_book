@@ -38,7 +38,7 @@ const books = [
 	{
 		title: 'Structure and Interpretation of Computer Programs',
 		author: ['Harold Abelson', 'Gerald Jay Sussman', 'Julie Sussman (Contributor)'],
-		imageSrc: './algorithms.jpg',
+		imageSrc: './stacey_book.jpg',
 		publisher: 'The MIT Press',
 		publicationDate: '2022-04-12',
 		edition: 2,
@@ -63,7 +63,7 @@ const books = [
 	{
 		title: 'Computer Systems: A Programmer\'s Perspective',
 		author: ['Randal E. Bryant', 'David Richard O\'Hallaron'],
-		imageSrc: './algorithms.jpg',
+		imageSrc: './books_club.jpg',
 		publisher: 'Prentice Hall',
 		publicationDate: '2002-01-01',
 		edition: 1,
@@ -88,7 +88,7 @@ const books = [
 	{
 		title: 'Operating System Concepts',
 		author: ['Abraham Silberschatz', 'Peter B. Galvin', 'Greg Gagne'],
-		imageSrc: './algorithms.jpg',
+		imageSrc: './odamcha.jpg',
 		publisher: 'John Wiley & Sons',
 		publicationDate: '2004-12-14',
 		edition: 10,
@@ -112,7 +112,7 @@ const books = [
 	{
 		title: 'Engineering Mathematics',
 		author: ['K.A. Stroud', 'Dexter J. Booth'],
-		imageSrc: './algorithms.jpg',
+		imageSrc: './just_books.png',
 		publisher: 'Palgrave',
 		publicationDate: '2007-01-01',
 		edition: 14,
