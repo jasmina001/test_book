@@ -481,3 +481,31 @@ sortBtn.addEventListener('click', () => {
 })
 
 //input filter
+input.addEventListener('input', () => {
+	booksContainer.innerHTML = ''
+	const searchInput = books.filter((item) => {
+		return item.title.toLowerCase().includes(input.value.toLowerCase())
+	})
+
+	searchInput.forEach((book) => {
+		const bookCard = document.createElement('div')
+		bookCard.classList.add('book-card')
+		bookCard.innerHTML = `
+				
+				<h2>${book.title}</h2>
+				<p><strong>Author:</strong>${book.author.join(', ')}</p>
+				<p><strong>Publisher:</strong>${book.publisher}</p>
+				<p><strong>PublicationDate:</strong>${book.publicationDate}</p>
+				<p><strong>Edition:</strong>${book.edition}</p>
+				<p><strong>Pages:</strong>${book.pages}</p>
+				<p><strong>Format:</strong>${book.format}</p>
+				<p><strong>ISBN:</strong>${book.ISBN}</p>
+				<p><strong>Language:</strong>${book.language}</p>
+				<p class='keywords'><strong>Keywords:</strong>${book.keywords.join(', ')}</p>
+				<p class='rating'><strong>Rating:</strong>${book.thirdParty.goodreads.rating}</p>
+				<p>${book.highlighted ? '<span class="highlighted">Highlighted</span>' : ''}</p>
+			`
+		booksContainer.appendChild(bookCard)
+	})
+})
+
