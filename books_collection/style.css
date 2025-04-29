@@ -135,10 +135,7 @@ button:focus {
 .book-card .highlighted {
 	margin: 10px 15px;
 	font-size: 0.9rem;
-	background-color: yellow;
-	padding: 5px 10px;
-	border-radius: 5px;
-	color: #333;
+;
 }
 
 
