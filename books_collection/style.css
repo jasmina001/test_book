@@ -141,3 +141,9 @@ button:focus {
 	color: #333;
 }
 
+
+.loading {
+	font-size: 20px;
+	color: #007bff;
+
+}
